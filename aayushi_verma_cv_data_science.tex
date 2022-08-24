@@ -1,0 +1,326 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+%\documentclass[a4paper,11pt]{article}
+%\usepackage[margin=-0.1in]{geometry}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{academicons}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+\usepackage[sfdefault]{FiraSans}
+%\usepackage[sfdefault]{roboto}
+%\usepackage[sfdefault]{noto-sans}
+%\usepackage[default]{sourcesanspro}
+
+% serif
+%\usepackage{CormorantGaramond}
+%\usepackage{charter}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\rfoot{\thepage}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+%\addtolength{\oddsidemargin}{-0.5in}
+%\addtolength{\evensidemargin}{-0.5in}
+%\addtolength{\textwidth}{1in}
+%\addtolength{\topmargin}{-.5in}
+%\addtolength{\textheight}{1.0in}
+
+
+
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{0.8in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+%\urlstyle{same}
+
+%------ ORCID LINK ICON STUFF-------
+\usepackage{scalerel}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+\definecolor{orcidlogocol}{HTML}{A6CE39}
+\tikzset{
+  orcidlogo/.pic={
+    \fill[orcidlogocol] svg{M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z};
+    \fill[white] svg{M86.3,186.2H70.9V79.1h15.4v48.4V186.2z}
+                 svg{M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z}
+                 svg{M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1C84.2,46.7,88.7,51.3,88.7,56.8z};
+  }
+}
+\newcommand\orcidicon[1]{\href{https://orcid.org/#1}{\mbox{\scalerel*{
+\begin{tikzpicture}[yscale=-1,transform shape]
+\pic{orcidlogo};
+\end{tikzpicture}
+}{|}}}}
+% make sure hyperref stuff is imported immediately after this, nothing should be imported after hyperref
+% to use the orcid command: 
+%\orcidicon{0000-0003-2396-4569}
+%------ ORCID LINK ICON STUFF-------
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+%----------HEADING----------
+\begin{center}
+\textbf{\Huge \scshape Aayushi Verma \orcidicon{0000-0003-2396-4569}} \\ \vspace{10pt} 
+\small \href{mailto:aayushi_verma@hotmail.com}{\underline{aayushi\_verma@hotmail.com}} $|$ 
+\small \href{https://www.linkedin.com/in/aayushi-verma/}{\underline{linkedin.com/in/aayushi-verma/}} $|$ \href{https://github.com/awesomecosmos}{\underline{github.com/awesomecosmos}}  
+\end{center}
+%----------------------
+%\section{Personal Statement}
+
+%I am a recent graduate in Astrophysics. I have a strong portfolio of research projects and experience, and am transitioning into Data Science.
+
+%I am an entry-level data scientist with a BSc (Hons) in Astrophysics. I have a strong portfolio of data analysis skills such as data cleaning, analysis and visualization, which I have applied in astrophysics research projects on scientific datasets. I am looking for positions in data science which will challenge me, and enable me to use my scientific skills in a wider range of applications.
+
+Junior data scientist with strong portfolio of data analysis skills.
+
+%I am now transitioning to industry and looking to upgrade my skills in this sector.
+
+\textbf{Vaccination Status:} Fully vaccinated (2 Pfizer shots + 1 Booster shot).
+
+%\textbf{Citizenship Status:} USA Citizen - no sponsorship required.
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+\textbf{Languages:} Python, SQL, R, Shell (Bash), HTML/CSS, Markdown, LaTeX,  Matlab\\ 
+%\textbf{Libraries:} NumPy, SciPy,  pandas, Matplotlib, Astropy, seaborn $|$ \textbf{OS:} Windows, MacOS, Linux \\ 
+\textbf{Software:} Git/Github, Anaconda, VS Code, MySQL, PostGres, PGAdmin\\
+%Jupyter Notebook, VS Code, Slack, Google Suite, Microsoft Office, Adobe Suite,  $|$ \textbf{Other Skills:} Scrum/Agile methodology \\
+\textbf{Other Skills:} Bayesian statistics, time-series analysis, Fourier analysis, MCMC simulations, technical documentation\\
+%\textbf{Relevant Skills From Research:} , physical modeling, climate modeling,, linear algebra, multivariate calculus,\\
+
+%-----------EXPERIENCE-----------
+\section{Relevant Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Data Scientist}{Mar. 2022 -- Jun. 2022}{SmartGreen Solar}{Providence, RI}
+\resumeItemListStart
+\resumeItem{Unifying multiple sources of data by creating a database. Will create dashboards displaying key metrics for sales and installations for solar panels.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Python Programmer}{Apr. 2021 -- current}{CallCruncher, Inc.}{United States (Remote)}
+\resumeItemListStart
+\resumeItem{\textbf{Agent performance KPIs:} Developed Python scripts to process daily call detail records (CDR), per client basis for agents' performance index calculation. More duties include: generating statistics for incoming calls on a daily basis, computing agents' presence time for total calls in the day, reporting outliers outside 1-SD, ranking agents based on presence data and abandoned calls count, and other metrics.}
+\resumeItemListEnd
+
+\resumeSubheading
+{\href{https://gist.github.com/awesomecosmos/b19831e6abafee7909ef276701d3f599}{Senior Thesis Research Project}}{Feb. 2021 -- Nov. 2021}
+{University of Canterbury}{Christchurch, NZ}
+\resumeItemListStart
+\resumeItem{Developed 3 pipeline scripts and 2 function repositories to ingest, transform, analyze and visualize image datasets (400GB+) from an astronomy observatory, using Python and Shell.}
+\resumeItem{Developed analytics, such as plots and analysis logs for pipeline scripts, additional feature includes API for web querying of database.}
+\resumeItem{Unit-tested code, open-source and publicly available on \href{https://gist.github.com/awesomecosmos/b19831e6abafee7909ef276701d3f599}{Github}.}
+\resumeItem{These pipelines are currently being used by Mt. John Observatory for processing image datasets.}
+\resumeItemListEnd
+
+%\resumeSubheading
+%{Undergraduate Research Project}{Aug. 2020 -- Feb. 2021}
+%{University of Canterbury}{Christchurch, NZ}
+%\resumeItemListStart
+%\resumeItem{Developed \href{https://github.com/awesomecosmos/ASTR381-Research-Project}{Python code} for querying and retrieving data about a comet from a web database and local CSV files, and analyzing and visualizing the data to produce a joined table and plots, utilizing Astropy, Numpy, Pandas and Matplotlib libraries.}
+%\resumeItem{Developed \href{https://github.com/awesomecosmos/NEOExchange-Observations-Planner}{Python code} for querying and retrieving an astronomical target's visibility information from a web database, and outputting results as plots, using Numpy and Astropy libraries.}
+%\resumeItemListEnd
+      
+\resumeSubheading
+{Laureate Internship}{Jan. 2020 -- Feb. 2020}
+{Research School for Astronomy and Astrophysics, Australian National University}{Canberra, Australia}
+\resumeItemListStart
+\resumeItem{Developed multiple Python scripts for analyzing 3-dimensional data cubes of galaxies, including data cleaning, wrangling, analysis, and visualization.}
+\resumeItem{Performed operations like ASCII file manipulation, linear interpolation of data, polynomial curve fitting, and other mathematical transformations using Numpy.}
+\resumeItem{Contributed frequently to private group repository, wrote and maintained multiple function and class scripts in the repository.}
+\resumeItem{\href{https://arxiv.org/abs/2203.02522}{Publication} for this project is currently in review in Astrophysical Journal (Mar. 2022).}
+\resumeItemListEnd
+      
+%\resumeSubheading
+%{Research Project}{Oct. 2019 -- Dec. 2019}
+%{Queen's University}{Kingston, Canada}
+%\resumeItemListStart
+%\resumeItem{Developed Python code for querying and retrieving data about a young star's formation (astronomy) from multiple web databases, and analyzing and visualizing the data to learn more about the young star, utilizing Numpy, Pandas and Matplotlib.}
+%\resumeItemListEnd
+      
+%\resumeSubheading
+%{Research Project}{Nov. 2018 -- Feb. 2019}
+%{Brown University}{Providence, RI, USA}
+%\resumeItemListStart
+%\resumeItem{Developed Python code and Bash shell scripts for analyzing datasets of dark matter around galaxy clusters.}
+%\resumeItemListEnd
+      
+%\resumeSubheading
+%{Undergraduate Research Project}{Jul. 2018 -- May 2019}
+%{University of Canterbury}{Christchurch, NZ}
+%\resumeItemListStart
+%\resumeItem{Developed Python code for processing and analyzing astronomical image datasets.}
+%\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Bachelor of Science (Honours) in Astronomy, Minor in Mathematics}{Feb. 2018 -- Nov. 2021}
+{University of Canterbury}{Christchurch, NZ}
+%\resumeSubheading
+%{University of Canterbury}{Christchurch, NZ}{Bachelor of Science with Honours in Astronomy}{Feb. 2021 -- Nov. 2021}
+%\resumeSubheading
+%{University of Canterbury}{Christchurch, NZ}
+%{Bachelor of Science in Astronomy with Minor in Mathematics}{Feb. 2018 -- Feb. 2021}
+%\resumeSubheading
+%{Queen's University}{Kingston, Canada} {(Exchange Program -- Fall Semester 2019)}{Sep. 2019 -- Dec. 2019}
+\resumeSubheading
+{Exchange Program -- Fall Semester 2019}{Sep. 2019 -- Dec. 2019}
+{Queen's University}{Kingston, Canada}
+\resumeSubHeadingListEnd
+
+%-----------Work-----------
+\section{Work Experience}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Internship Supervisor}{Nov. 2021 - Feb. 2022}
+{University of Canterbury Mt. John Observatory}{}
+\resumeItemListStart
+\resumeItem{Supervisor for 3 undergraduate student interns at the Mt. John Observatory. In charge of training them on 2 telescopes, aiding them with their observations, mentoring them, and answering questions related to their astronomy research projects.}
+\resumeItemListEnd
+\resumeSubheading
+{Teaching Assistant and Tutor}{Feb. 2021 - Nov. 2021}
+{University of Canterbury}{}
+\resumeItemListStart
+\resumeItem{TA for approximately 30 first-year and 30 second-year Astronomy students. In charge of holding tutorial sessions to familiarize students with class content, helping and answering questions, marking assignments, helping the lecturer with class demonstrations and extra marking, and monitoring the online class forum to answer student questions.}
+\resumeItemListEnd
+
+%\resumeSubheading
+%{Astronomy Camp Assistant}{Apr. 2021}
+%{University of Canterbury}{Fixed Term Contract}
+%\resumeItemListStart
+%\resumeItem{In charge of planning activities for 20 high school students, showing them around the university, taking them to their lectures, and engaging them with astrophysics.}
+%\resumeItemListEnd
+
+\resumeSubheading
+{Social Media Manager}{Mar. 2020 -- Nov. 2020}
+{New Zealand Students' Space Association at University of Canterbury}{}
+\resumeItemListStart
+\resumeItem{In charge of managing social media presence of association on Facebook, Instagram, Youtube, etc., promoting events, networking, and other related duties.}
+\resumeItemListEnd
+      
+\resumeSubheading
+{President and Co-Founder}{Dec. 2018 -- Mar. 2020}
+{New Zealand Students' Space Association: Christchurch Branch}{}
+\resumeItemListStart
+\resumeItem{In charge of managing 10-person team, coordinating meeting minutes, organizing weekly tasks for team, managing and running events for association, networking to make connections for association, and other management duties.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Certifications}
+
+The Complete SQL Bootcamp 2022: Go from Zero to Hero (Udemy - in progress)
+
+\href{https://awesomecosmos.github.io/files/2022_01_kaggle.pdf}{Pandas} (Kaggle - Jan. 2022) \\
+
+\href{https://awesomecosmos.github.io/files/2022_01_sololearn.pdf}{SQL} (SoloLearn - Jan. 2022) \\
+
+\href{https://awesomecosmos.github.io/files/2021_12_sololearn.pdf}{Python For Data Science} (SoloLearn - Dec. 2021) \\
+
+\href{https://awesomecosmos.github.io/files/2021_12_udemy.pdf}{Complete Data Science Training With Python For Data Analysis} (Udemy - Dec. 2021) \\
+
+\href{https://awesomecosmos.github.io/files/2021_06_codeastro.pdf}{Code/Astro Software Engineering Workshop for Astronomy} (Caltech - Jun. 2021)
+
+%--- 2-line version -----
+%\href{https://awesomecosmos.github.io/files/2022_01_kaggle.pdf}{Pandas} (Kaggle - Jan. 2022) $|$ \href{https://awesomecosmos.github.io/files/2022_01_sololearn.pdf}{SQL} (SoloLearn - Jan. 2022) $|$ \href{https://awesomecosmos.github.io/files/2021_12_sololearn.pdf}{Python For Data Science} (SoloLearn - Dec. 2021) $|$ \href{https://awesomecosmos.github.io/files/2021_12_udemy.pdf}{Complete Data Science Training With Python For Data Analysis} (Udemy - Dec. 2021) $|$ \href{https://awesomecosmos.github.io/files/2021_06_codeastro.pdf}{Code/Astro Software Engineering Workshop for Astronomy} (Caltech - Jun. 2021)
+
+%-------------------------------------------
+\section{}
+\centering \textit{last updated: Mar. 2022}
+%-------------------------------------------
+\end{document}
