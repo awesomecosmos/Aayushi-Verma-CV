@@ -24,3 +24,6 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - Dec. 2021 - [Complete Data Science Training with Python for Data Analysis](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_udemy.pdf), Udemy.
 - Dec. 2021 - [Python for Data Science](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_sololearn.pdf), SoloLearn.
 - Jun. 2021 - [Code/Astro](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_06_codeastro.pdf), Caltech/IPAC.
+
+## Community Involvement
+- Nov. 2022 - took part in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
