@@ -26,4 +26,4 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - Jun. 2021 - [Code/Astro](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_06_codeastro.pdf), Caltech/IPAC.
 
 ## Community Involvement
-- Nov. 2022 - took part in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
+- Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
