@@ -15,10 +15,9 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - Nov. 2022 - [Reshaping Data with tidyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_reshaping_data_with_tidyr.pdf), DataCamp.
 - Nov. 2022 - [Writing Efficient R Code](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_efficientR.pdf), DataCamp.
 - Nov. 2022 - [Intermediate R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_intermediateR.pdf), DataCamp.
-
-- Oct. 2022 - [Creating Dashboards in Tableau](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-10-creating_dashboards_in_tableau.pdf), DataCamp.
-- Oct. 2022 - [Joining Data with dplyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-10-joining_data_with_dplyr.pdf), DataCamp.
-- Sep. 2022 - [Building Web Applications in Shiny with R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-09_web_apps_with_shiny_in_r.pdf), DataCamp.
+- Oct. 2022 - [Creating Dashboards in Tableau](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_10-creating_dashboards_in_tableau.pdf), DataCamp.
+- Oct. 2022 - [Joining Data with dplyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_10-joining_data_with_dplyr.pdf), DataCamp.
+- Sep. 2022 - [Building Web Applications in Shiny with R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_09_web_apps_with_shiny_in_r.pdf), DataCamp.
 - Sep. 2022 - [Analyzing Data in Tableau](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_09_analyzing_data_in_tableau.pdf), DataCamp.
 - Aug. 2022 - [Introduction to the Tidyverse](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_08_intro_to_tidyverse.pdf), DataCamp.
 - Aug. 2022 - [Introduction to Tableau](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_08_intro_to_tableau.pdf), DataCamp.
