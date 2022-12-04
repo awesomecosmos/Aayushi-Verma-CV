@@ -1,6 +1,6 @@
 # Aayushi Verma's Curriculum Vitae
 
-Get the current version in PDF format <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_data_science.pdf">here</a>. <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_data_science.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>
+Get the current version in PDF format <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_data_science.pdf">here</a>. <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_2022_12.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>
 
 ## Education
 - May 2022 - current: MS in Data Science, Pace University
@@ -12,6 +12,10 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - **Verma, A.** (2019). [The Morphology of Galaxies](https://www.aayushiverma.com/wp-content/uploads/2020/12/2019_publication_southern_stars.pdf). Southern Stars, 58(2), 7–10.
 
 ## Certifications
+- Nov. 2022 - [Reshaping Data with tidyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_reshaping_data_with_tidyr.pdf), DataCamp.
+- Nov. 2022 - [Writing Efficient R Code](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_efficientR.pdf), DataCamp.
+- Nov. 2022 - [Intermediate R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_intermediateR.pdf), DataCamp.
+
 - Oct. 2022 - [Creating Dashboards in Tableau](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-10-creating_dashboards_in_tableau.pdf), DataCamp.
 - Oct. 2022 - [Joining Data with dplyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-10-joining_data_with_dplyr.pdf), DataCamp.
 - Sep. 2022 - [Building Web Applications in Shiny with R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022-09_web_apps_with_shiny_in_r.pdf), DataCamp.
