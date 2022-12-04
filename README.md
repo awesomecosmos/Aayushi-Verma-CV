@@ -1,6 +1,6 @@
 # Aayushi Verma's Curriculum Vitae
 
-Get the current version in PDF format <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_data_science.pdf">here</a>. <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_2022_12.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>
+Get the current version in PDF format <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_2022-12.pdf">here</a>. <a href="https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/aayushi_verma_cv_2022-12.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>
 
 ## Education
 - May 2022 - current: MS in Data Science, Pace University
