@@ -11,6 +11,9 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - Grasha, K., Chen, Q.H., Battisti, A.J., Ridolfo, S., Poehler, E., Mably, S., **Verma, A.A.**, Hayward, K.L., Kharbanda, A., Acharyya, A., Poetrodjojo, H., Seibert, M., Rich, J.A., Madore, B.F., and Kewley, L.J. (2022). [Metallicity, ionization parameter, and pressure variations of HII regions in the TYPHOON spiral galaxies](https://iopscience.iop.org/article/10.3847/1538-4357/ac5ab2). ApJ, 929(2).
 - **Verma, A.** (2019). [The Morphology of Galaxies](https://www.aayushiverma.com/wp-content/uploads/2020/12/2019_publication_southern_stars.pdf). Southern Stars, 58(2), 7–10.
 
+## Community Involvement
+- Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
+
 ## Certifications
 - Nov. 2022 - [Reshaping Data with tidyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_reshaping_data_with_tidyr.pdf), DataCamp.
 - Nov. 2022 - [Writing Efficient R Code](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_efficientR.pdf), DataCamp.
@@ -27,6 +30,3 @@ Get the current version in PDF format <a href="https://github.com/awesomecosmos/
 - Dec. 2021 - [Complete Data Science Training with Python for Data Analysis](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_udemy.pdf), Udemy.
 - Dec. 2021 - [Python for Data Science](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_sololearn.pdf), SoloLearn.
 - Jun. 2021 - [Code/Astro](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_06_codeastro.pdf), Caltech/IPAC.
-
-## Community Involvement
-- Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
