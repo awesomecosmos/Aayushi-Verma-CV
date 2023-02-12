@@ -9,8 +9,8 @@
 [![CV](https://img.shields.io/badge/-my%20resume-blueviolet)](https://github.com/awesomecosmos/Aayushi-Verma-CV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
-[![arXiv](https://img.shields.io/badge/arXiv-my%20profile-red)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
-[![medium](https://img.shields.io/badge/medium-my%20blog%20posts-lightgrey)](https://medium.com/@aayushi_verma)
+[![arXiv](https://img.shields.io/badge/arXiv-journal%20publications-red)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
+[![medium](https://img.shields.io/badge/medium-blog%20posts-lightgrey)](https://medium.com/@aayushi_verma)
 
 ## Education
 - :memo: **MS in Data Science**, Pace University (May 2022 - Dec 2023)
@@ -23,6 +23,30 @@
 
 ## Community Involvement
 - Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
+
+## Tech Skills
+<div>
+<details>
+<summary><b>Click to see a detailed breakdown of my skills!</b></summary>
+ 
+ The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, R, SQL, Git and visualization.
+    
+<br>
+
+| Skill Area | Skills |
+| ------------- |-------------|
+| **Programming** 		    | Python, R, SQL, Latex, Markdown, Matlab, Shell (bash), HTML/CSS |
+| **Packages & Variants**	| Python (numpy, scipy, pandas, scikit-learn, astropy, matplotlib, seaborn), R (Shiny, dplyr, tidyr, readr, stringr), SQL (MySQL, PostgreSQL, sqlite)|
+| **IDEs and Softwares** 	| VS Code, Anaconda (Spyder), RStudio, MySQLWorkbench, PGAdmin, Weka, Neo4j    |
+| **Version Control** 		| Git, Github, Bitbucket  |
+| **Visualization** 		| Tableau, Google Data Studio |
+| **Research Areas** 		| Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
+| **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach |
+| **Hard Skills** 		| Telescope instrumentation |
+| **Data Science Areas and Techniques** | Machine learning, artificial intelligence |
+
+</details>
+</div>
 
 ## Certifications
 - Nov. 2022 - [Reshaping Data with tidyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_reshaping_data_with_tidyr.pdf), DataCamp.
