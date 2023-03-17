@@ -49,6 +49,12 @@
 </div>
 
 ## Certifications
+
+- Mar. 2023 - [Extreme Gradient Boosting with XGBoost](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_extreme_gradient_boosting.pdf), DataCamp.
+- Feb. 2023 - [Machine Learning with Tree-Based Models in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_tree_based_models.pdf), DataCamp.
+- Dec. 2022 - [Unsupervised Learning in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2022_12_unsupervised_learning.pdf), DataCamp.
+- Dec. 2022 - [Supervised Learning in scikit-learn](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2022_12_supervised_learning.pdf), DataCamp.
+- Dec. 2022 - [Linear Classifiers in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2022_12_linear_classifiers.pdf), DataCamp.
 - Nov. 2022 - [Reshaping Data with tidyr](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_reshaping_data_with_tidyr.pdf), DataCamp.
 - Nov. 2022 - [Writing Efficient R Code](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_efficientR.pdf), DataCamp.
 - Nov. 2022 - [Intermediate R](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2022_11_intermediateR.pdf), DataCamp.
