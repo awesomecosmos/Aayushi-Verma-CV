@@ -49,6 +49,9 @@
 </div>
 
 ## Certifications
+<div>
+<details>
+<summary><b>Click to see a detailed breakdown of my certifications!</b></summary>
 
 - Mar. 2023 - [Extreme Gradient Boosting with XGBoost](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_extreme_gradient_boosting.pdf), DataCamp.
 - Feb. 2023 - [Machine Learning with Tree-Based Models in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_tree_based_models.pdf), DataCamp.
@@ -70,3 +73,5 @@
 - Dec. 2021 - [Complete Data Science Training with Python for Data Analysis](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_udemy.pdf), Udemy.
 - Dec. 2021 - [Python for Data Science](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_sololearn.pdf), SoloLearn.
 - Jun. 2021 - [Code/Astro](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_06_codeastro.pdf), Caltech/IPAC.
+</details>
+</div>
