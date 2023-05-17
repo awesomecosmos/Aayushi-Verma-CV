@@ -30,9 +30,18 @@
 - **Verma, A.** (2019). [The Morphology of Galaxies](https://www.aayushiverma.com/wp-content/uploads/2020/12/2019_publication_southern_stars.pdf). Southern Stars, 58(2), 7–10.
 
 ## Data Science Community Involvement
+- Feb. 2023 - joined Pace University Data Science Club's committee as the Creative Team Lead
 - Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
 
 ## Conferences Attended
+<div>
+<details>
+<summary><b>Click to see all the fun conferences I've attended!</b></summary>
+ 
+ placeholder for now soz
+
+</details>
+</div>
 
 ## Tech Skills
 <div>
