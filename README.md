@@ -37,9 +37,28 @@
 <div>
 <details>
 <summary><b>Click to see all the fun conferences I've attended!</b></summary>
- 
- placeholder for now soz
+<br>
 
+2023
+- May - Tableau Conference (Las Vegas, NV), as an attendee
+- April - DATAWorks Conference (Alexandria, VA), as a presenter
+
+2022
+- September - MORS Emerging Techniques Forum (Alexandria, VA), as an attendee
+- May - Center for Computational Astrophysics's "Unconference" (New York City, NY), as an attendee
+
+2021
+- June - RASNZ Annual Conference (Wellington, New Zealand), as a presenter
+
+2020
+- it was the sad year of COVID, so no conferences :(
+
+2019
+- May - RASNZ Annual Conference (New Plymouth, New Zealand), as a presenter
+
+2018
+- May - RASNZ Annual Conference (Christchurch, New Zealand), as an attendee
+ 
 </details>
 </div>
 
