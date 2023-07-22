@@ -40,24 +40,27 @@
 <br>
 
 2023
-- May - Tableau Conference (Las Vegas, NV), as an attendee
-- April - DATAWorks Conference (Alexandria, VA), as a presenter
+- May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
+- April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://www.youtube.com/watch?v=u2IACflSNjg)
 
 2022
-- September - MORS Emerging Techniques Forum (Alexandria, VA), as an attendee
-- May - Center for Computational Astrophysics's "Unconference" (New York City, NY), as an attendee
+- September - [MORS Emerging Techniques Forum](https://www.mors.org/Events/Workshops/Emerging-Techniques-Forum) (Alexandria, VA), as an attendee
+- May - [Astronomical Software Workshop](https://code.astrodata.nyc/) (New York City, NY), as an attendee
 
 2021
-- June - RASNZ Annual Conference (Wellington, New Zealand), as a presenter
+- June - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (Wellington, New Zealand), as a [presenter](https://www.youtube.com/watch?v=O4_0ROGtA5w&list=LL&index=7&t=193s)
+- June - [Code/Astro Workshop](https://semaphorep.github.io/codeastro/) (online), as an attendee
+- March - [Rocks, Dust and Ice: Interpreting Planetary Data](https://sofia-science-series.constantcontactsites.com/w1-rock-dust-and-ice) (online), as an attendee
+
 
 2020
 - it was the sad year of COVID, so no conferences :(
 
 2019
-- May - RASNZ Annual Conference (New Plymouth, New Zealand), as a presenter
+- May - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (New Plymouth, New Zealand), as a [presenter](https://www.youtube.com/watch?v=8e6zvK9It5U)
 
 2018
-- May - RASNZ Annual Conference (Christchurch, New Zealand), as an attendee
+- May - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (Christchurch, New Zealand), as an attendee
  
 </details>
 </div>
