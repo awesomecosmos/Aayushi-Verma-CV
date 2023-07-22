@@ -94,6 +94,10 @@
 <details>
 <summary><b>Click to see a detailed breakdown of my certifications!</b></summary>
 
+- Jul. 2023 - [Introduction to Natural Language Processing in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_07_nlp.pdf), DataCamp.
+- Jul. 2023 - [Introduction to Data Visualization with Plotly in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_07_plotly.pdf), DataCamp.
+- May 2023 - [Object-Oriented Programming in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_05_object_oriented_programming.pdf), DataCamp.
+- Mar. 2023 - [Cluster Analysis in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_03_cluster_analysis.pdf), DataCamp.
 - Mar. 2023 - [Extreme Gradient Boosting with XGBoost](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_extreme_gradient_boosting.pdf), DataCamp.
 - Feb. 2023 - [Machine Learning with Tree-Based Models in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_02_tree_based_models.pdf), DataCamp.
 - Dec. 2022 - [Unsupervised Learning in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2022_12_unsupervised_learning.pdf), DataCamp.
