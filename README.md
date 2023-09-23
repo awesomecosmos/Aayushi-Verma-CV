@@ -23,23 +23,26 @@
 ## Education
 - :memo: **MS in Data Science**, Pace University (May 2022 - Dec 2023)
 - :woman_student: **BSc (Hons) in Astrophysics**, University of Canterbury (Feb 2018 - Nov 2021)
+  
+[back to top](#table-of-contents)
 
 ## Peer-Reviewed Journal Publications
 - Lister, T., Kelley, M. S. P., Holt, C. E., Hsieh, H. H., Bannister, M. T., Bodewits, D., Knight, M. M., Bauer, J., Chatelain, J., Dobson, M. M., Fernandez-Valenzuela, E., Gardener, D., Gyuk, G., Hammergren, M., Huynh, K., Jehin, E., Moulane, Y., Kokotanekova, R., Lilly, E., Man-To, H., McKay, A., Opitom, C., Protopapa, S., Schambeau, C., Schwamb, M. E., Snodgrass, C., Usher, H., **Verma, A.A.**, Wierzchos, K., Yanamandra-Fisher, P. A., Ye, Q., Gomez, E., Greenstreet, S. (2022). [The LCO Outbursting Objects Key Project: Overview and Year 1 Status](https://iopscience.iop.org/article/10.3847/PSJ/ac7a31). PSJ, 173(3).
 - Grasha, K., Chen, Q.H., Battisti, A.J., Ridolfo, S., Poehler, E., Mably, S., **Verma, A.A.**, Hayward, K.L., Kharbanda, A., Acharyya, A., Poetrodjojo, H., Seibert, M., Rich, J.A., Madore, B.F., and Kewley, L.J. (2022). [Metallicity, ionization parameter, and pressure variations of HII regions in the TYPHOON spiral galaxies](https://iopscience.iop.org/article/10.3847/1538-4357/ac5ab2). ApJ, 929(2).
 - **Verma, A.** (2019). [The Morphology of Galaxies](https://www.aayushiverma.com/wp-content/uploads/2020/12/2019_publication_southern_stars.pdf). Southern Stars, 58(2), 7–10.
 
+[back to top](#table-of-contents)
+
 ## Data Science Community Involvement
 - Feb. 2023 - joined Pace University Data Science Club's committee as the Creative Team Lead
 - Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
 
+[back to top](#table-of-contents)
+
 ## Conferences Attended
-<div>
-<details>
-<summary><b>Click to see all the fun conferences I've attended!</b></summary>
-<br>
 
 2023
+- September - [Posit Conference](https://posit.co/conference/) (Chicago, IL), as an attendee
 - May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
 - April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://www.youtube.com/watch?v=u2IACflSNjg)
 
@@ -52,7 +55,6 @@
 - June - [Code/Astro Workshop](https://semaphorep.github.io/codeastro/) (online), as an attendee
 - March - [Rocks, Dust and Ice: Interpreting Planetary Data](https://sofia-science-series.constantcontactsites.com/w1-rock-dust-and-ice) (online), as an attendee
 
-
 2020
 - it was the sad year of COVID, so no conferences :(
 
@@ -61,18 +63,12 @@
 
 2018
 - May - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (Christchurch, New Zealand), as an attendee
- 
-</details>
-</div>
+
+[back to top](#table-of-contents)
 
 ## Tech Skills
-<div>
-<details>
-<summary><b>Click to see a detailed breakdown of my skills!</b></summary>
- 
- The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, R, SQL, Git and visualization.
-    
-<br>
+
+The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, R, SQL, Git and visualization.
 
 | Skill Area | Skills |
 | ------------- |-------------|
@@ -86,13 +82,9 @@
 | **Hard Skills** 		| Telescope instrumentation |
 | **Data Science Areas and Techniques** | Machine learning, artificial intelligence |
 
-</details>
-</div>
+[back to top](#table-of-contents)
 
 ## Certifications
-<div>
-<details>
-<summary><b>Click to see a detailed breakdown of my certifications!</b></summary>
 
 - Jul. 2023 - [Introduction to Natural Language Processing in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_07_nlp.pdf), DataCamp.
 - Jul. 2023 - [Introduction to Data Visualization with Plotly in Python](https://github.com/awesomecosmos/Aayushi-Verma-CV/blob/main/certificates/2023_07_plotly.pdf), DataCamp.
@@ -118,5 +110,5 @@
 - Dec. 2021 - [Complete Data Science Training with Python for Data Analysis](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_udemy.pdf), Udemy.
 - Dec. 2021 - [Python for Data Science](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_12_sololearn.pdf), SoloLearn.
 - Jun. 2021 - [Code/Astro](https://github.com/awesomecosmos/aayushi-verma-cv/blob/main/certificates/2021_06_codeastro.pdf), Caltech/IPAC.
-</details>
-</div>
+
+[back to top](#table-of-contents)
