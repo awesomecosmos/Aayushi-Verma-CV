@@ -9,9 +9,9 @@
 [![CV](https://img.shields.io/badge/-my%20resume-blueviolet)](https://github.com/awesomecosmos/Aayushi-Verma-CV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
-[![arXiv](https://img.shields.io/badge/arXiv-journal%20publications-red)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
-[![medium](https://img.shields.io/badge/medium-blog%20posts-lightgrey)](https://medium.com/@aayushi_verma)
-[ORCiD](https://orcid.org/0000-0003-2396-4569)
+[![arXiv](https://img.shields.io/static/v1?message=arXiv&logo=arxiv&labelColor=B31B1B&color=white&logoColor=white&label=%20)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
+[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=white&logoColor=white&label=%20)](https://medium.com/@aayushi_verma)
+[![ORCiD](https://img.shields.io/static/v1?message=ORCiD&logo=orcid&labelColor=A6CE39&color=white&logoColor=white&label=%20)](https://orcid.org/0000-0003-2396-4569)
 
 ## Table of Contents
   * [Education](#education)
