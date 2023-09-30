@@ -7,11 +7,11 @@
 :incoming_envelope: theawesomecosmos@gmail.com
 
 [![CV](https://img.shields.io/badge/-my%20resume-blueviolet)](https://github.com/awesomecosmos/Aayushi-Verma-CV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
-[![arXiv](https://img.shields.io/static/v1?message=arXiv&logo=arxiv&labelColor=B31B1B&color=white&logoColor=white&label=%20)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
-[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=white&logoColor=white&label=%20)](https://medium.com/@aayushi_verma)
-[![ORCiD](https://img.shields.io/static/v1?message=ORCiD&logo=orcid&labelColor=A6CE39&color=white&logoColor=white&label=%20)](https://orcid.org/0000-0003-2396-4569)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20)](https://linkedin.com/in/aayushi-verma) 
+[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
+[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@aayushi_verma)
+[![arXiv](https://img.shields.io/static/v1?message=arXiv&logo=arxiv&labelColor=B31B1B&color=B31B1B&logoColor=white&label=%20)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
+[![ORCiD](https://img.shields.io/static/v1?message=ORCiD&logo=orcid&labelColor=A6CE39&color=A6CE39&logoColor=white&label=%20)](https://orcid.org/0000-0003-2396-4569)
 
 ## Table of Contents
   * [Education](#education)
