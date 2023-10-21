@@ -44,6 +44,7 @@
 ## Conferences Attended
 
 2023
+- October - [R for Government](https://rstats.ai/gov) (Washington, DC), as a presenter
 - September - [Posit Conference](https://posit.co/conference/) (Chicago, IL), as an attendee
 - May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
 - April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://www.youtube.com/watch?v=u2IACflSNjg)
