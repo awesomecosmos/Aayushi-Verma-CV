@@ -36,7 +36,9 @@
 [back to top](#table-of-contents)
 
 ## Data Science Community Involvement
-- Feb. 2023 - joined Pace University Data Science Club's committee as the Creative Team Lead
+- Aug. 2023 - founded IDA Data Science Reading Group.
+- May 2023 - co-founded [Women in GovTech](https://women-in-govtech.github.io/) online community.
+- Feb. 2023 - joined Pace University Data Science Club's committee as the Creative Team Lead.
 - Nov. 2022 - selected as finalist and ultimately placed 3rd in [2022 Pace - Dataiku Hackathon](https://github.com/awesomecosmos/ChocolateHackathon).
 
 [back to top](#table-of-contents)
