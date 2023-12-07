@@ -46,6 +46,8 @@
 ## Conferences Attended
 
 2023
+- December - [MORS Emerging Techniques Forum](https://www.mors.org/Events/Workshops/Emerging-Techniques-Forum) (Laurel, MD), as a presenter
+  - placed 4th in [Visco Prize Competition](https://www.mors.org/Professional-Development/Prizes/Eugene-P-Visco-Prize)
 - October - [R for Government](https://rstats.ai/gov) (Washington, DC), as a presenter
 - September - [Posit Conference](https://posit.co/conference/) (Chicago, IL), as an attendee
 - May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
