@@ -36,6 +36,7 @@
 [back to top](#table-of-contents)
 
 ## Data Science Community Involvement
+- Dec. 2023 - placed 1st in IDA Data Analytics Working Group - Data Visualization Contest.
 - Aug. 2023 - founded IDA Data Science Reading Group.
 - May 2023 - co-founded [Women in GovTech](https://women-in-govtech.github.io/) online community.
 - Feb. 2023 - joined Pace University Data Science Club's committee as the Creative Team Lead.
