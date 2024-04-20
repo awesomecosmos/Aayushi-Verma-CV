@@ -22,6 +22,7 @@
   * [Certifications](#certifications)
 
 ## Education
+- :woman_technologist: **PhD in Computer Science and Engineering**, University of Connecticut (incoming Fall 2024)
 - :memo: **MS in Data Science**, Pace University (May 2022 - Dec 2023)
 - :woman_student: **BSc (Hons) in Astrophysics**, University of Canterbury (Feb 2018 - Nov 2021)
   
@@ -36,6 +37,7 @@
 [back to top](#table-of-contents)
 
 ## Data Science Community Involvement
+- Apr. 2024 - volunteered as a TA for 'Design of Experiments' short course at [DATAWorks conference](https://dataworks.testscience.org/).
 - Dec. 2023 - placed 1st in IDA Data Analytics Working Group - Data Visualization Contest.
 - Aug. 2023 - founded IDA Data Science Reading Group.
 - May 2023 - co-founded [Women in GovTech](https://women-in-govtech.github.io/) online community.
@@ -46,13 +48,20 @@
 
 ## Conferences Attended
 
+2024
+- April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://youtu.be/dypGutz9gyg)
+  - presented slides and poster, titled 'From Text to Metadata: Automated Product Tagging with Python and NLP'
+
 2023
 - December - [MORS Emerging Techniques Forum](https://www.mors.org/Events/Workshops/Emerging-Techniques-Forum) (Laurel, MD), as a presenter
+  - presentation titled 'From Data to Collaboration: Connecting Our Researchers with Data Science'
   - placed 4th in [Visco Prize Competition](https://www.mors.org/Professional-Development/Prizes/Eugene-P-Visco-Prize)
 - October - [R for Government](https://rstats.ai/gov) (Washington, DC), as a [presenter](https://www.youtube.com/watch?v=BDbfp5fH8Co&t=29s)
+  - presentation titled 'From Data to Collaboration: Connecting Our Researchers with R and Shiny'
 - September - [Posit Conference](https://posit.co/conference/) (Chicago, IL), as an attendee
 - May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
 - April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://www.youtube.com/watch?v=u2IACflSNjg)
+- presented slides and poster, titled 'I-TREE: a Tool for Characterizing Research Using Taxonomies'
 
 2022
 - September - [MORS Emerging Techniques Forum](https://www.mors.org/Events/Workshops/Emerging-Techniques-Forum) (Alexandria, VA), as an attendee
@@ -60,6 +69,8 @@
 
 2021
 - June - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (Wellington, New Zealand), as a [presenter](https://www.youtube.com/watch?v=O4_0ROGtA5w&list=LL&index=7&t=193s)
+  - presentation titled 'Characterizing the activity of new comets and asteroids observed in the LOOK project'
+  - poster titled 'ASTEROID: A Data Reduction Pipeline for the MOA Telescope'
 - June - [Code/Astro Workshop](https://semaphorep.github.io/codeastro/) (online), as an attendee
 - March - [Rocks, Dust and Ice: Interpreting Planetary Data](https://sofia-science-series.constantcontactsites.com/w1-rock-dust-and-ice) (online), as an attendee
 
@@ -68,6 +79,7 @@
 
 2019
 - May - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (New Plymouth, New Zealand), as a [presenter](https://www.youtube.com/watch?v=8e6zvK9It5U)
+  - presentation titled 'Galaxy Morphology and Classification'
 
 2018
 - May - [RASNZ](https://www.rasnz.org.nz/) Annual Conference (Christchurch, New Zealand), as an attendee
