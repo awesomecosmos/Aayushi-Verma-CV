@@ -61,7 +61,7 @@
 - September - [Posit Conference](https://posit.co/conference/) (Chicago, IL), as an attendee
 - May - [Tableau Conference](https://www.salesforce.com/tableau-conference/) (Las Vegas, NV), as an attendee
 - April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://www.youtube.com/watch?v=u2IACflSNjg)
-- presented slides and poster, titled 'I-TREE: a Tool for Characterizing Research Using Taxonomies'
+  - presented slides and poster, titled 'I-TREE: a Tool for Characterizing Research Using Taxonomies'
 
 2022
 - September - [MORS Emerging Techniques Forum](https://www.mors.org/Events/Workshops/Emerging-Techniques-Forum) (Alexandria, VA), as an attendee
