@@ -38,6 +38,9 @@
 [back to top](#table-of-contents)
 
 ## Data Science Community Involvement
+- Mar. 2025 - participated in [UConn AI/Voxel 51 Computer Vision Hackathon](https://github.com/awesomecosmos/uconn-hackathon).
+- Mar. 2025 - won department prize in [UConn College of Engineering Poster Competition](https://www.aayushiverma.com/what-i-learned-from-my-first-poster-competition/).
+- Oct. 2024 - volunteered to showcase my PhD research and chat with first-year undergrads at UConn [at a research showcase event](https://www.aayushiverma.com/portfolio/we-applied-machine-learning-in-the-voting-domain/).
 - Apr. 2024 - volunteered as a TA for 'Design of Experiments' short course at [DATAWorks conference](https://dataworks.testscience.org/).
 - Dec. 2023 - placed 1st in IDA Data Analytics Working Group - Data Visualization Contest.
 - Aug. 2023 - founded IDA Data Science Reading Group.
@@ -98,7 +101,7 @@ The list of my skills below is very comprehensive, so to summarize, here are my 
 | **IDEs and Softwares** 	| VS Code, Anaconda (Spyder), RStudio, MySQLWorkbench, PGAdmin, Weka, Neo4j    |
 | **Version Control** 		| Git, GitHub, Bitbucket, GitLab  |
 | **Visualization** 		| Tableau, Google Data Studio |
-| **Research Areas** 		| Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
+| **Research Areas** 		| Computer Science (machine learning, computer vision, machine learning security, biometrics pattern recognition), Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
 | **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach |
 | **Hard Skills** 		| Telescope instrumentation |
 | **Data Science Areas and Techniques** | Machine learning, computer vision, adversarial machine learning |
