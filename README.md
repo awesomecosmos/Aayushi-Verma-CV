@@ -52,6 +52,9 @@
 
 ## Conferences Attended
 
+2025
+- April - [IEEE SatML Conference](https://satml.org/) (Copenhagen, Denmark), as an attendee
+
 2024
 - April - [DATAWorks Conference](https://dataworks.testscience.org/) (Alexandria, VA), as a [presenter](https://youtu.be/dypGutz9gyg)
   - presented slides and poster, titled 'From Text to Metadata: Automated Product Tagging with Python and NLP'
