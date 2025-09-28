@@ -29,6 +29,7 @@
 [back to top](#table-of-contents)
 
 ## Peer-Reviewed Journal Publications
+- Mahmood, K., Manicke, C., Rathbun, E., **Verma, A.**, Ahmad, S., Stamatakis, N., Michel, L., Fuller, B. (2025). [Busting the Paper Ballot: Voting Meets Adversarial Machine Learning](https://arxiv.org/abs/2506.14582). CCS, preprint.
 - **Verma, A.**, Khan, Omar Agha. (2024). [From Text to Metadata: Automated Product Tagging with Python and Natural Language Processing](https://itea.org/journals/volume-45-3/from-text-to-metadata-automated-product-tagging-with-python-and-natural-language-processing/). ITEA, 45(3).
 - **Verma, A.** (2023). [I-TREE: A Tool for Characterizing Research Taxonomies](https://itea.org/journals/volume-44-3/I-Tree-A-Tool-for-characterizing-research-using-taxonomies/). ITEA, 44(3).
 - Lister, T., Kelley, M. S. P., Holt, C. E., Hsieh, H. H., Bannister, M. T., Bodewits, D., Knight, M. M., Bauer, J., Chatelain, J., Dobson, M. M., Fernandez-Valenzuela, E., Gardener, D., Gyuk, G., Hammergren, M., Huynh, K., Jehin, E., Moulane, Y., Kokotanekova, R., Lilly, E., Man-To, H., McKay, A., Opitom, C., Protopapa, S., Schambeau, C., Schwamb, M. E., Snodgrass, C., Usher, H., **Verma, A.A.**, Wierzchos, K., Yanamandra-Fisher, P. A., Ye, Q., Gomez, E., Greenstreet, S. (2022). [The LCO Outbursting Objects Key Project: Overview and Year 1 Status](https://iopscience.iop.org/article/10.3847/PSJ/ac7a31). PSJ, 173(3).
@@ -38,6 +39,7 @@
 [back to top](#table-of-contents)
 
 ## Data Science Community Involvement
+- Jul. 2025 - presented a [workshop on AI](https://github.com/awesomecosmos/readyct-ai-workshop) to local high school students.
 - Mar. 2025 - participated in [UConn AI/Voxel 51 Computer Vision Hackathon](https://github.com/awesomecosmos/uconn-hackathon).
 - Mar. 2025 - won department prize in [UConn College of Engineering Poster Competition](https://www.aayushiverma.com/what-i-learned-from-my-first-poster-competition/).
 - Oct. 2024 - volunteered to showcase my PhD research and chat with first-year undergrads at UConn [at a research showcase event](https://www.aayushiverma.com/portfolio/we-applied-machine-learning-in-the-voting-domain/).
